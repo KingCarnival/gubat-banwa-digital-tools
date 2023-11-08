@@ -1,0 +1,162 @@
+[
+  {
+    "id": "sk_art",
+    "name": "Art",
+    "description": "To create, to craft, to sing a song others can see in their minds requires a certain capacity to imagine. Art is just that, imagination, creativity.",
+    "detail": {
+      "high": "<b>High Art</b> means you can vividly imagine things easily and perhaps, maybe even, put it down upon paper or craft it into stone. But you are burdened with image, burdened with the mind’s eye. Simply standing there and thinking might overload you.",
+      "low": "<b>Low Art</b> makes you as imaginative as a stone upon a lake: still, and no ripples unless others move you."
+    },
+    "social_class": "Royalty"
+  },
+  {
+    "id": "sk_control",
+    "name": "Control",
+    "description": "Control. Bottle it up. Or– no. That’s a bad way of putting it. Sheathe it, there. Control handles your capacity to sheathe your emotions, to put it away, as required. It is not the quality of being dense, no, it is cool, composure.",
+    "detail": {
+      "high": "<b>High Control</b> means you wield your emotions perfectly, by hilt or by blade: high Control might also mean that you will never let go of your control of your emotions, and you will never connect with those around you. What is a Kadungganan without the hands they hold?",
+      "low": "<b>Low Control</b> means you are prone to bouts of intense emotion, possibly with no regard to the consequences of your actions."
+    },
+    "social_class": "Royalty"
+  },
+  {
+    "id": "sk_poetry",
+    "name": "Poetry",
+    "description": "Your ability to read and tap into the intricacies of epic and song, of subtext and context. Of poetry and metaphor, of secrets and lies. The Sword Isles is filled with people that speak in riddles and twists.",
+    "detail": {
+      "high": "<b>High Poetry</b> means you can interpret what people say and the subtext of their actions, figure out lies, and even be good at lying yourself, but you are prone to reading too much into things, and sometimes even you can’t figure out if you’re telling the truth or not.",
+      "low": "<b>Low Poetry</b> means metaphors and songs and epics and stories (and everyone is a story) are indecipherable to you."
+    },
+    "social_class": "Royalty"
+  },
+  {
+    "id": "sk_wrath",
+    "name": "Wrath",
+    "description": "Your capacity to express ultraviolent rage, your ability to connect with the rage that broils with those around you. Your ability to ignore everything else and give in to your primal fury. In the Sword Isles, a powerful wrath is often rare: it is too common for Folk to bend over to those that possess more power, to protect their own hide.",
+    "detail": {
+      "high": "<b>High Wrath</b> means you will be able to act upon your emotions, you are emboldened and bolstered and brought to flame by the fires of your heart, but you are prone to becoming just like fire: too bright, too hot, burning those you care about with the rashness of your blaze.",
+      "low": "<b>Low Wrath</b> means you are languid, you drag your feet. Lighting a fire under you means nothing because you are numb to it. Your fire is low, you cannot bring others to blaze if you cannot be aflame yourself."
+    },
+    "social_class": "Royalty"
+  },
+  {
+    "id": "sk_beauty",
+    "name": "Beauty",
+    "description": "Attractiveness, but not purely because of features. Beauty is reprehensibly impossible to categorize, you cannot boil it down to eye shape and nose line and forehead broadness. No, beauty is what comes before judgment, beauty is what comes before evaluation. A flower is beautiful to us but not because their cheekbones are perfectly aligned.",
+    "detail": {
+      "high": "<b>High Beauty</b> might mean that you cannot help it: people find you attractive and appealing and they don’t exactly know why. However, this might lead you to unwanted attention",
+      "low": "<b>Low Beauty</b> means you do not attract as much attention, and people are not swayed easily by you. People are swayed by beauty, you see, do not deny it. Beauty standards in the Sword Isles are thus: broad and sloped back foreheads (like the moon, for what else is more beautiful than the shining lightning in eternal darkness?) and broad noses. This ability ignores beauty standards."
+    },
+    "social_class": "Freeman"
+  },
+  {
+    "id": "sk_grace",
+    "name": "Grace",
+    "description": "Your hands are dexterous, fingers quick, feet always moving. You are the wind, just like the wind. And the wind retreats, the wind is whisked away, or rather, chooses never to stay simply just there.",
+    "detail": {
+      "high": "<b>High Grace</b> might mean you can run across walls, scale towers, avoid boulders, but too high and you might overshoot, you might bound, you might travel to the ends of the world and find nothing but hopelessness.",
+      "low": "<b>Low Beauty</b> might mean you fumble, you fail. Things fall from your hands, slip through your fingers. You cannot grasp anything."
+    },
+    "social_class": "Freeman"
+  },
+  {
+    "id": "sk_might",
+    "name": "Might",
+    "description": "Gaze upon shattered ships upon shores. Who else could have that but the mighty? That is all that might brings. What is might in the Sword Isles? What is strength when the darkness between the stars has swallowed the lights? Wield blood and flame, is that might?",
+    "detail": {
+      "high": "<b>High Might</b> means your grip upon the sword-handle can bisect trees, but too much and your sword might shatter.",
+      "low": "<b>Low Might</b> perhaps means that you can only raise your sword. But swing it? You will break first."
+    },
+    "social_class": "Freeman"
+  },
+  {
+    "id": "sk_resolve",
+    "name": "Resolve",
+    "description": "Choose how you will move through the world. Will you be swayed? Will you resist? Will you rise? Where is your flame? Attacks on the soul are common in the Sword Isles, and Kadungganan must build up their resolve if they wish to survive for long. Demons, spirits, undead, witches… they all rend at the Kadungganan’s will. Resolve must be steel, or else it will be the last thing they want. Resolve also can be used when trying to bend others to your own will through the strength of willpower.",
+    "detail": {
+      "high": "<b>High Resolve</b> might mean you burn through all those that wish to break you, or stand firm against the assaults of witches and demons… but you might end up too stubborn, too uncompromising on your beliefs, that you fail to see the holes in your own self.",
+      "low": "<b>Low Resolve</b>means you are easily swayed, easily charmed, easily fall into witcheries. May the spirits bless your soul."
+    },
+    "social_class": "Freeman"
+  },
+  {
+    "id": "sk_occult",
+    "name": "Occult",
+    "description": "There are secrets so hidden in Gubat Banwa that only those that are dead or cursed to eat livers can afford to dig through soil and corpses to find it. And even then, the secrets are not answers, but questions. Occult is your knowledge of these secrets, of things that even the diwata might forbid, that the sages caution against. Knowledge of the interactions of sorceries with hiyang, of the strange vagaries of the Four-Part Soul, of the underworld and the dead.",
+    "detail": {
+      "high": "<b>High Occult</b> means you know what others might not know: truths about monsters and demons and ghosts and the vengeful, as well as the forbidden alchemies within the world that let you perform magic: turning water into wine, leaves into flame, herbs into life. However, the secrets… change you. At High Occult, you hear the whispers, your fingers are blackened, your eyes are different.",
+      "low": "<b>Low Occult</b> might mean that you are completely blocked off from knowing the secrets, the ancient and long buried knowledge. Dense to it, you might not even know when you are affected by it, just like how not being able to feel pain is more a curse than blessing."
+    },
+    "social_class": "Wisefolk"
+  },
+  {
+    "id": "sk_psalm",
+    "name": "Psalm",
+    "description": "The Sword Isles collects and archives tradition, culture, and knowledge in story and song. Thus, to know the Sword Isles is to know its harmony, to be part of its chorus, to know the intricacies of its paeans.",
+    "detail": {
+      "high": "<b>High Psalm</b> might mean you know a great amount of Sword Isle knowledge, but this might cause you to look down upon those that don’t.",
+      "low": "<b>Low Psalm</b> means you don't know much about your own culture. Why have you blocked out the song of the ancients?"
+    },
+    "social_class": "Wisefolk"
+  },
+  {
+    "id": "sk_ritual",
+    "name": "Ritual",
+    "description": "The Sword Isles are sometimes known as the “Islands of Rituals”: every little thing is a rite to the ancestors and to the spirits, to accrue better merit through good deeds, so that their lives would become better. Knowledge and the ability to stay pious and faithful is an important characteristic for Kadungganan, no matter what their faith. Pious Virbanwans might perform their penitences properly, while Pious Akainon Lunar Faithfuls might strive for better lives for all those around them, as part of their Divine Striving.",
+    "detail": {
+      "high": "<b>High Ritual</b> means you are cognizant of the various rituals and religions across the Isles. You might even know the rituals of religions that are not yours! However it might also make you overzealous, too obsessed with perfecting and maintaining order, and you might be susceptible to heresy, or even to those that have no respect for religions.",
+      "low": "<b>Low Ritual</b> might mean that you could care less for the rituals of the various religions. You do them purely out of your own benefit or as parts of your culture, but there is no obsession, no passion, in your performance. Those with High Ritual drink deep of faith, like an obsessive and overpassionate love between two young lovers. You do not possess that enlightenment at Low Ritual."
+    },
+    "social_class": "Wisefolk"
+  },
+  {
+    "id": "sk_sensitivity",
+    "name": "Sensitivity",
+    "description": "The world is alive. “Sacred nature” is redundant: nature is already inherently sacred. The heartbeat of the world is the diwata, the spirits, the gods, the demons, everything in between. Listen to its heartbeat: to be in harmony and accordance with nature is “Hiyang”, transcendental oneness. Sensitivity is your ability to tap into the world’s heartbeat, to meet the manifestations of nature itself.",
+    "detail": {
+      "high": "<b>High Sensitivity</b> lets you listen in to the truths of the world as spoken by the spirits and the dead, and interact with them, but it makes you paranoid. You hear the voices everywhere. And once you can see them, they can also see you.",
+      "low": "<b>Low Sensitivity</b> means you fall into that horrible horrible trap of thinking that the world is inert and dead, and the only thinking beings are Folk. You cannot touch the unseen, which makes you useless."
+    },
+    "social_class": "Wisefolk"
+  },
+  {
+    "id": "sk_observation",
+    "name": "Observation",
+    "description": "The Sword Isles demands you to look closely. That leaf is not just a leaf! Turn it over and witness the spirits that dance underneath it. There is more to observation than just perception. It includes analysis, rumination. Nay, it requires it.",
+    "detail": {
+      "high": "<b>High Observation</b>lets you find the intricacies of everyday life, lets you appreciate the small things, even lets you understand what they mean, but you might be too wary of your surroundings, and you might get overwhelmed with analysis. Decisions become hard for you.",
+      "low": "<b>Low Observation</b> makes it so that you can miss the easiest of things to spot, and even if you do, you might not know just exactly why it's important."
+    },
+    "social_class": "Worker"
+  },
+  {
+    "id": "sk_tenderness",
+    "name": "Tenderness",
+    "description": "Your ability to empathize and connect with the feelings of those around you, to find the best way to connect with others, and to speak softly. Gently. In the Sword Isles, every word is a thorn, a prick, a kampilan’s spike. Your words will not mend, but perhaps it need not heal, simply soothe?",
+    "detail": {
+      "high": "<b>High Tenderness</b> means you will always have the right words to say to quiet burning fires, but your heart bleeds at every thought! At every word. You bleed profusely for others, both a boon and a bane. Forgive me, dear heart, there is no solace from love.",
+      "low": "<b>Low Tenderness</b> means you are colder, your words strike and bleed, like a sword, and you are dense to the plight of others. A stone, dead, struck by lightning, not in wrath but in ignorance."
+    },
+    "social_class": "Worker"
+  },
+  {
+    "id": "sk_toughness",
+    "name": "Toughness",
+    "description": "Perhaps the most important virtue in the Sword Isles. Kadungganan are those assailed by fate and blade at every turn. Wounds bleed and break you. This is Gubat Banwa, after all.",
+    "detail": {
+      "high": "<b>With High Toughness,</b> you might be stronger than a boulder, steel shatters upon your skin, or you might grit through all things and always come out on top. You might be knocked down but you always end up standing up. Too much Toughness, however, and you might end up dead. You can only get knocked down so many times before your bones break and give out.",
+      "low": "<b>Low Toughness</b> means you are like reeds upon the riverbanks, easily swayed, easily broken, easily burnt. But perhaps you are pliant, perhaps you will not get hurt! But remember that to inflict violence is to be inflicted violence upon as well."
+    },
+    "social_class": "Worker"
+  },
+  {
+    "id": "sk_judgement",
+    "name": "Judgment",
+    "description": "Observation and analysis are nothing without good reasoning. In the Sword Isles, to be able to see the value of the libra and the sword, with or without each other, is just as important if not more to being able to change the world. How can you change the world if you cannot place it within your mind, intertwine its roots within the caverns of the psyche?",
+    "detail": {
+      "high": "<b>High Judgment</b> means your reasoning is slick and oiled, sharper than wit, than darkness. However you might look upon yourself too highly, and fall into the trap of not needing others’ opinions.",
+      "low": "<b>Low Judgment</b> means your reasoning is clunky, a rusty blade. You cannot cut away the imperfections of the world, you cannot remove the inconsistencies of thought."
+    },
+    "social_class": "Worker"
+  }
+]

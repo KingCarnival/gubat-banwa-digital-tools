@@ -1,0 +1,32 @@
+[
+  {
+    "id": "flk_kawayanon",
+    "name": "Kawayanon",
+    "description": "Bamboofolk"
+  },
+  {
+    "id": "flk_iro-iro",
+    "name": "Iro-Iro",
+    "description": "Dogfolk"
+  },
+  {
+    "id": "flk_kamikam",
+    "name": "Kamikam",
+    "description": "Catfolk"
+  },
+  {
+    "id": "flk_laksaman",
+    "name": "Laksaman",
+    "description": "Monkeyfolk"
+  },
+  {
+    "id": "flk_pilandokan",
+    "name": "Pilandokan",
+    "description": "Deerfolk"
+  },
+  {
+    "id": "flk_pak-an",
+    "name": "Pak-an",
+    "description": "Birdfolk"
+  }
+]

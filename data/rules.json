@@ -1,0 +1,20 @@
+{
+  "minimum_skill": 1,
+  "max_legend": 12,
+  "max_rank": 3,
+  "max_skill": 10,
+  "skill_groups": [
+    {
+      "social_class": "Royalty"
+    },
+    {
+      "social_class": "Freeman"
+    },
+    {
+      "social_class": "Wisefolk"
+    },
+    {
+      "social_class": "Worker"
+    }
+  ]
+}

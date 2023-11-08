@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Aflame",
+    "effect": "Every end of riff, suffer <b>1 True Hit</b>, and you’re <b>vulnerable to attacks that douse or set aflame. Canceled</b> out by being <b>doused.</b>"
+  },
+  {
+    "name": "Bleeding",
+    "effect": "1/Riff, suffer <b>1 True Hit</b> when you move or are moved in any way (into or out of a tile). <b>Cleansed</b> if you <b>don’t move at all on your own Riff.</b>"
+  },
+  {
+    "name": "Chilled",
+    "effect": "Every tile is <b>Difficult Terrain</b> for you and your <b>Jump</b> becomes 1. You become vulnerable to attacks that <b>set aflame. Canceled</b> out by <b>attacks that set aflame.</b>"
+  },
+  {
+    "name": "Confused",
+    "effect": "Your mental faculties have been assailed! Whenever you spend a Beat, you have a <b>25% chance of suffering 1 Attack Die instead</b> and you waste that Beat. <b>Cleansed</b> after you suffer an attack."
+  },
+  {
+    "name": "Dazzled",
+    "effect": "You can only target <i>adjacent squares or fighters on the same elevation</i>. Area attack origin points can only be drawn from adjacent tiles. <b>You’re vulnerable to attacks that confuse and suffer -1 Posture. Cleansed</b> at the end of your next riff."
+  },
+  {
+    "name": "Debilitated",
+    "effect": "Your Bravery and Faith suffer -1, to a minimum of 1. <b>Cleansed</b> at the end of your next riff."
+  },
+  {
+    "name": "Doused",
+    "effect": "While doused, you’re vulnerable to attacks that <b>shock and chill</b> and resistant to attacks that <b>set aflame</b>. You also <b>conduct electricity</b>. If you’re doused again or chilled, replace the douse with chilled. <b>Canceled</b> out by attacks that set <b>aflame</b> or <b>shock.</b>"
+  },
+  {
+    "name": "Haste",
+    "effect": "You <b>double</b> your <b>Speed.</b> Cancels out <b>Slow.</b> Cleansed at the end of your next riff."
+  },
+  {
+    "name": "Juggled",
+    "effect": "You’re up in the air: Suffer -1d to all Defense rolls, you can’t Evade and attacks against you ignore Combo Breaker. Juggled is automatically cleansed at the start of your riff or if you’re dropped to the ground."
+  },
+  {
+    "name": "Poisoned",
+    "effect": "Every end of riff, suffer <b>1 True Hit.</b> You’re <b>vulnerable to attacks that Poison. Cleansed</b> by being <b>healed</b> beyond your max <b>HP</b>."
+  },
+  {
+    "name": "Slowed",
+    "effect": "Your <b>Speed</b> is halved, rounded up. Cancels out <b>Haste</b>. Cleansed at the end of your next riff"
+  },
+  {
+    "name": "Stealth",
+    "effect": "You are only a valid target for fighters that are adjacent to you on the same elevation. Only <b>cleansed</b> after you are attacked or after you make an attack."
+  },
+  {
+    "name": "Shocked",
+    "effect": "You cannot make attacks and suffer +2d from all attacks against you. <b>Cleanse</b> after suffering an attack. While Shocked, fighters cannot be shocked again."
+  },
+  {
+    "name": "Stunned",
+    "effect": "You suffer <b>-1 Beat. Cleansed</b> at the end of your next riff."
+  },
+  {
+    "name": "Wide Open",
+    "effect": "You suffer <b>-1 to your Posture and Resilience,</b> you cannot <b>Evade</b>, and you cannot <b>Guard. Cleansed</b> at the end of your next riff."
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "id": "en_gods_revel_in_rivers",
+    "name": "Gods Revel In Rivers",
+    "discipline_id": "disc_buwaya_lancer",
+    "effect": "You are immune to <b>water</b> terrain and cannot be <b>doused</b> or <b>chilled</b>. You are <b>Resistant</b> against <b>attacks that Douse or Chill</b>. Whenever you end your riff, <b>pull 1</b> a fighter in range 3.",
+    "fiction": "<i>Crocodiles are hardy and they are not hampered at all by water and hard to cross terrain. Even more, their tails work as powerful weapons. When used in tandem with spears, buwaya lancers are a force to be reckoned with</i>"
+  }
+]
