@@ -3,7 +3,62 @@
     "id": "en_gods_revel_in_rivers",
     "name": "Gods Revel In Rivers",
     "discipline_id": "disc_buwaya_lancer",
+    "required_techniques": 2,
     "effect": "You are immune to <b>water</b> terrain and cannot be <b>doused</b> or <b>chilled</b>. You are <b>Resistant</b> against <b>attacks that Douse or Chill</b>. Whenever you end your riff, <b>pull 1</b> a fighter in range 3.",
     "fiction": "<i>Crocodiles are hardy and they are not hampered at all by water and hard to cross terrain. Even more, their tails work as powerful weapons. When used in tandem with spears, buwaya lancers are a force to be reckoned with</i>"
+  },
+  {
+    "id": "en_gajasangkra’s_meditation",
+    "name": "Gajasangkra’s Meditation",
+    "discipline_id": "disc_kawal",
+    "required_techniques": 2,
+    "effect": "1/Riff, you can ignore any instance of forced movement. When you end your riff, choose one of the eight directions that you’re blocking against. Gain +1 Parry against all attacks from that direction",
+    "fiction": "<i>Gajasangkra is the Guardian Lord of the Northwest, which is the land of constant monsoons and whirlpools. If she doesn’t guard that place with her thousand hands, the seas will drain into wine and milk, killing all Folk in Gubat Banwa. And so she keeps the sea from overflowing, and so does she suffer the corroding chaos of wine.</i>"
+  },
+  {
+    "id": "en_whirlpool_movement",
+    "name": "Whirlpool Movement",
+    "discipline_id": "disc_mangangayaw",
+    "required_techniques": 2,
+    "effect": "You gain <b>+1 to your Speed,</b> and you ignore <b>shallow water</b> and <b>difficult terrain.</b> You can also now take on up to <b>2 Stances at a time.</b> When you take a third stance, choose which of the 2 stances is replaced. Whenever you take a stance, <b>rush 2, TUMBLING</b>.",
+    "mantras": [
+      {
+        "id": "mtra_tumbling"
+      }
+    ],
+    "bonuses": [
+      {
+        "id": "speed",
+        "val": 1
+      }
+    ],
+    "fiction": "<i>Your feet shuffle. You’ve internalized the perfect movement of the mangangayaw, never letting water impede them. A common teaching when fighting against premier mangangayaw is this: never get too close to them. This is how the mangangayaw sea raiders rule the waters.</i>"
+  },
+  {
+    "id": "en_sword_rhetoric",
+    "name": "Sword Rhetoric",
+    "discipline_id": "disc_sword_poet",
+    "required_techniques": 2,
+    "effect": "When you Hit an enemy, mark them with a biting remark and magicked poetry until the end of your next riff. When the marked target makes an attack, remove the mark and inflict 1 Hit against them. If the attacker is taunted, inflict 2 Hits instead.",
+    "mantras": [
+      {
+        "id": "mtra_taunt"
+      }
+    ],
+    "fiction": "<i>Dasig lang gihapon. Keep going. The sword is still a sword. Cut yourself off with that sorrowful song. Maybe then, maybe then, there will be peace. But not yet, not yet.</i>"
+  },
+  {
+    "id": "en_harmony",
+    "name": "Harmony",
+    "discipline_id": "disc_warrior_balyan",
+    "required_techniques": 2,
+    "effect": "At the start of violence, put down a little god (5 HP, shares your Prowesses, Speed, Jump) that rushes when you do. All allies that start their riff adjacent to the little god gain 2 Block.",
+    "mantras": [
+      {
+        "id": "mtra_block",
+        "val": 2
+      }
+    ],
+    "fiction": "<i>This is your final testament, and your own minor transcendence, your own inkling of enlightenment. A little taste of what that truly means. You become a Bulakdiwa, a bodhisattva on the cusp of Blossoming and finding Glory in Harmony. How do you feel? Take that next step.</i>"
   }
 ]
