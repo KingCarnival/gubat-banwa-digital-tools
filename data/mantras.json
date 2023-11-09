@@ -115,6 +115,16 @@
     "description": "Techniques wrapped or channeling venom. Inflicts the Poisoned status."
   },
   {
+    "id": "mtra_pull",
+    "name": "Pull {VAL}",
+    "description": "Every Pull count must be 1 tile closer to you. Pull can go up or down Elevations"
+  },
+  {
+    "id": "mtra_push",
+    "name": "Push {VAL}",
+    "description": " Forced movement that pushes away. It cannot be to the sides, it must be farther from you. A good way to count if the target is being pushed away, each tile they move must be 1 tile away from you when you count range. Push cannot go up Elevations, only collide with them"
+  },
+  {
     "id": "mtra_relentless",
     "name": "Relentless",
     "description": "Relentless Attacks or Defenses let you reroll any dice that come up as 1."
@@ -133,6 +143,11 @@
     "id": "mtra_safe",
     "name": "Safe",
     "description": "Attacks with this mantra does not target allies in the target range."
+  },
+  {
+    "id": "mtra_slide",
+    "name": "Slide {VAL}",
+    "description": " Forced movement in any direction. Slide can go up or down Elevations."
   },
   {
     "id": "mtra_stuns",
@@ -168,5 +183,29 @@
     "id": "mtra_tumbling",
     "name": "Tumbling",
     "description": "Any movement part of this technique lets you move through enemies but not end in their tiles."
+  },
+  {
+    "id": "mtra_burst",
+    "name": "Burst {VAL}",
+    "description": "X is every tile from an Origin Point. If no range then origin point is caster. ",
+    "filter_ignore": true
+  },
+  {
+    "id": "mtra_blast",
+    "name": "Blast {VAL}",
+    "description": "X is how wide and tall in squares the box is, but one tile must be adjacent to the origin point.",
+    "filter_ignore": true
+  },
+  {
+    "id": "mtra_line",
+    "name": "Line {VAL}",
+    "description": "Shaped like a straight line from the origin point, can even be diagonal, but it can only fire directly straight from the origin point and not any other way. If the starting point is adjacent, then the rest of the line must continue down that adjacent path in a straight line.",
+    "filter_ignore": true
+  },
+  {
+    "id": "mtra_path",
+    "name": "Path {VAL}",
+    "description": "Like Line, it is a Line, but can be snaked around (even diagonally) as long as all squares of a path are touching each other.",
+    "filter_ignore": true
   }
 ]
