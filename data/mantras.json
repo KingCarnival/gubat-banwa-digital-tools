@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "mtra_accuracy",
+    "name": "Accuracy {VAL}",
+    "description": "Accuracy represents better focus while Inaccuracy represents loss of skill and sharpness. Both can stack up to twice, and both cancel each other out. For each stack of Accuracy, you lower the target number of Attack or Defense Dice by 1 from 6. This means 1 Accuracy means you hit on 5+, while 2 Accuracy means you hit on 4+. Inaccuracy acts the same but in the other way: 1 Inaccuracy means you Hit on 7+. 2 Inaccuracy means you Hit on 8+. This applies to Parries from Defense Dice too if you suffer it from them."
+  },
+  {
+    "id": "mtra_inaccuracy",
+    "name": "Inaccuracy {VAL}",
+    "description": "Accuracy represents better focus while Inaccuracy represents loss of skill and sharpness. Both can stack up to twice, and both cancel each other out. For each stack of Accuracy, you lower the target number of Attack or Defense Dice by 1 from 6. This means 1 Accuracy means you hit on 5+, while 2 Accuracy means you hit on 4+. Inaccuracy acts the same but in the other way: 1 Inaccuracy means you Hit on 7+. 2 Inaccuracy means you Hit on 8+. This applies to Parries from Defense Dice too if you suffer it from them."
+  },
+  {
+    "id": "mtra_aura",
+    "name": "Aura {VAL}",
+    "description": "A persistent effect that emanates from an origin point like a burst, but does not affect those in the middle of the burst. Aura 1 means all adjacent squares, Aura 2 means all 2 squares from you, and so on, as with Burst."
+  },
+  {
+    "id": "mtra_blast_wide_open",
+    "name": "Blast Wide Open",
+    "description": "A technique that opens up an enemy’s defenses. Inflicts the Wide Open status."
+  },
+  {
+    "id": "mtra_bleeds",
+    "name": "Bleeds",
+    "description": "A technique that lacerates. Inflicts the Bleeding status."
+  },
+  {
+    "id": "mtra_block",
+    "name": "Block {VAL}",
+    "description": "When you suffer Hits, you remove Blocks per Hit first before suffering hits to your HP. They’re temporary HP. Blocks cannot stack: when you gain Block you simply gain the Block that is higher (if you have 3 Block and gain 1 Block, then you keep the 3 Block) unless the block you gain is +X instead of just X."
+  },
+  {
+    "id": "mtra_cancel",
+    "name": "Cancel",
+    "description": "Whenever an interaction cancels out the other, you remove both status effects"
+  },
+  {
+    "id": "mtra_chills",
+    "name": "Chills",
+    "description": " This attack summons a cold wind or is infused with sub zero temperatures that chill, inflicting the chilled status."
+  },
+  {
+    "id": "mtra_conducts_electricity",
+    "name": "Conducts Electricity",
+    "description": " Anything that conducts electricity (such as water and metals) suffers +1d when attacked by anything that shocks, and then all fighters in burst 1 of the target are shocked."
+  },
+  {
+    "id": "mtra_confuses",
+    "name": "Confuses",
+    "description": "The attack assails mental faculties and forces confused upon a target"
+  },
+  {
+    "id": "mtra_dazzling",
+    "name": "Dazzling",
+    "description": "This attack dazzles with bright radiance, inflicting the dazzled status."
+  },
+  {
+    "id": "mtra_debilitates",
+    "name": "Debilitates",
+    "description": "This attack inflicts a dark and heart-aching despair and physical enervation. Inflicts the debilitated status."
+  }
+]
