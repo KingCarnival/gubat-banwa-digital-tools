@@ -1,22 +1,27 @@
 [
   {
     "id": "Gatusan",
-    "name": "The Rajanate of Gatusan"
+    "name": "The Rajanate of Gatusan",
+    "description": "The Rajanate of Gatusan is a collection of settlements and cities all bound beneath a collectively chosen Overlord, known as the Raja. The Raja is the king, and there are many raja (a term now commonly associated with port town kings), but they are all led by the Ponong Raja, or the Highest King. The Collective of Crocodile Lords decide who becomes Ponong Raja, but lately the Collective has been gripped by the lineage of Ambasi, who traces a direct line to the legendary founder of Kangdaya, Sri Bishaya, the Tempestuous Tiger Who Roars from the White Mountain"
   },
   {
     "id": "Apumbukid",
-    "name": "The Confederation of Apumbukid"
+    "name": "The Confederation of Apumbukid",
+    "description": "Apunon is the term for the warriors that live in the Five Core Kadatuan (Communities). Kamuton (Rooted) is the term for those allied with the confederation across The Sword Isles. \nStewards of the divine wilds, warrior-priests, and enforcers of hiyang. The Confederation of Apumbukid is a collection of kedatuans that has grown about the Holy Mountain of Apu, the Center Pillar of the World. They are united by Five Elders, known as the Limang Timuay. The Limang Timuay were each granted a shard of Apu Dayaw’s Violence, and therefore are bolstered with divine, righteous might. \nThe people here worship the Holy Mountain Apu, for climbing up to its peak one will arrive at the gates of heaven. Within the Holy Mountain of Apu sleeps the Original Spirit, the one that came into being, defying causation, and caused causation itself: Apu Dayaw."
   },
   {
     "id": "Akai",
-    "name": "The Sultanate of Akai"
+    "name": "The Sultanate of Akai",
+    "description": "Chivalrous, regal, and romantic, the Akai Sultanate prides itself in the beauty of its monuments, its temples, and picaresque sites in their island and the extent of their mandala into the island of Kalanawan. Akai holds a code of chivalry, and follows their Sultan as others would follow their king. They are intensely loyal, and engage in the romantic aspects of life, whether it be in art or in song. Akayu live in divine striving, and in their striving, they seek to expand their mandala to bring all under the holy light of the Moon, creating a great Empire for their Baginda Sumongsuklay, their Supreme Moon Goddess."
   },
   {
     "id": "Virbanwa",
-    "name": "The Lakanate of Virbanwa"
+    "name": "The Lakanate of Virbanwa",
+    "description": "Ambitious warlords, would-be imperialists, and opportunistic merchants. The river chiefdoms of Lontok, Namayan, Malilu, and Tundun were conquered and invaded by the Empire of Issohappa, led by the Pale Kings, which introduced to them the concepts of land ownership, colonization, the printing press, and Astraiman. With the victory of Virbanwa, their destiny is now back in their hands. They are at the precipice: either they become worse than their colonizers, or use the tools forced upon them to become more than what they ever were."
   },
   {
     "id": "Ba-e",
-    "name": "The Kingdom of Ba-e"
+    "name": "The Kingdom of Ba-e",
+    "description": "Ancient guardians, sacred priests, and keepers of vast lore. They, poetically called The First Kingdom in The Sword Isles, will not bow to the rising tide of violence of the Festival of the Reddest Night. They believe their SANGPAMEGAT, Dayang Kalangitan, to be a manifestation of the bodhisattva Avalokitesvara, the Queen of Mercy. The Sangpamegat, the local term for Chakravarti, wishes to expand to the Nine Directions to place all under her righteousness, to guide all living beings to Glory."
   }
 ]

@@ -24,7 +24,8 @@
     "mantras": [
       {
         "id": "mtra_tumbling"
-      }
+      },
+      { "id": "mtra_stance" }
     ],
     "bonuses": [
       {

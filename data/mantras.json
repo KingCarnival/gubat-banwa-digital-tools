@@ -58,5 +58,115 @@
     "id": "mtra_debilitates",
     "name": "Debilitates",
     "description": "This attack inflicts a dark and heart-aching despair and physical enervation. Inflicts the debilitated status."
+  },
+  {
+    "id": "mtra_douses",
+    "name": "Douses",
+    "description": "This attack washes the target with water, dousing flames. Attacks that douse gain +1d against fighters that are set aflame or shocked. Going into water terrain or being soaked in water also douses."
+  },
+  {
+    "id": "mtra_extinguishes",
+    "name": "Extinguishes",
+    "description": "This Technique puts out Fires in the battlefield (if their effect affects a tile on Fire) and removes Aflame from the targets."
+  },
+  {
+    "id": "mtra_fields",
+    "name": "Fields",
+    "description": "Fields are lingering zones in the battlefield, like smoke or changing tides. Fields last until the end of the scene or until overwritten. New fields overwrite older fields on each square. In general, you cannot have two of the same Fields on the battlefield: you cannot have 2 Blazing Fields, for example. Putting down another field of the same type would remove the previous Field of that type. Putting down a second Blazing Field would cost the first Blazing Field to peter out."
+  },
+  {
+    "id": "mtra_float",
+    "name": "Float",
+    "description": "If you’re floating, you ignore all terrain."
+  },
+  {
+    "id": "mtra_fly",
+    "name": "Fly",
+    "description": "If you’re flying, you ignore all terrain and elevation impose -1d on all melee attacks against you. You can move over enemy tiles but you can’t end your move in them."
+  },
+  {
+    "id": "mtra_guards",
+    "name": "Guards",
+    "description": "Usually will say which character is guarding what or who. When the ward is attacked, 50% chance that the guardian suffers it instead. Breaking adjacency removes guard"
+  },
+  {
+    "id": "mtra_heals",
+    "name": "Heals {VAL}",
+    "description": "When an effect heals you, you recover Hit Pearls equal to the amount. Wounds are only healed through the narrative."
+  },
+  {
+    "id": "mtra_immune",
+    "name": "Immune",
+    "description": "When you’re immune to something, you completely ignore the effects of the defined thing. If you’re immune to anything that sets aflame, you ignore the attack as well as being set aflame. If you’re immune to forced movement, you are not moved."
+  },
+  {
+    "id": "mtra_juggles",
+    "name": "Juggles",
+    "description": "Launches into the air. Inflicts the Juggle Status."
+  },
+  {
+    "id": "mtra_overwhelming",
+    "name": "Overwhelming",
+    "description": "Overwhelming attacks let you roll another die when you roll a 10. Overwhelming defenses let you roll another d8 when you roll an 8."
+  },
+  {
+    "id": "mtra_poisons",
+    "name": "Poisons",
+    "description": "Techniques wrapped or channeling venom. Inflicts the Poisoned status."
+  },
+  {
+    "id": "mtra_relentless",
+    "name": "Relentless",
+    "description": "Relentless Attacks or Defenses let you reroll any dice that come up as 1."
+  },
+  {
+    "id": "mtra_skewering",
+    "name": "Skewering",
+    "description": "Anything that can pierce through blocks (which is not a lot!) This is a rare combat tag. Skewering attacks ignore Block."
+  },
+  {
+    "id": "mtra_stance",
+    "name": "Stance",
+    "description": "Stances are combat positions that predispose you to doing something. When you take on a stance, you cannot be in two stances at a time, only one. The new stance always takes over the old stance. Lose when you’re Juggled, Stunned, or Defeated."
+  },
+  {
+    "id": "mtra_safe",
+    "name": "Safe",
+    "description": "Attacks with this mantra does not target allies in the target range."
+  },
+  {
+    "id": "mtra_stuns",
+    "name": "Stuns",
+    "description": "Attack that discombobulates. Inflicts the Stun status."
+  },
+  {
+    "id": "mtra_shocks",
+    "name": "Shocks",
+    "description": "This attack is charged with lightning and will shock the target. Completely useless against anything made of earth or rubber."
+  },
+  {
+    "id": "mtra_set_aflame",
+    "name": "Set Aflame",
+    "description": "This attack envelops with flame, inflicting aflame and setting flammable things on fire"
+  },
+  {
+    "id": "mtra_taunt",
+    "name": "Taunt",
+    "description": "If a Taunted fighter makes an attack that does not include the fighter that taunted them as a target, they suffer -2 Attack Dice. A fighter can only be taunted by one fighter at a time: new Taunts supercede old ones."
+  },
+  {
+    "id": "mtra_teleport",
+    "name": "Teleport",
+    "description": " Teleportation is not movement. It is displacement: you remove yourself from your current square and place yourself into the square you choose to be in. This means it does not trigger effects that happen when you move. Teleportation ignores all terrain, and all elevation."
+  },
+  {
+    "id": "mtra_true",
+    "name": "True",
+    "description": "True Attacks generate True Hits, which cannot be Evaded, Guarded, or Parried."
+  },
+  {
+    "id": "mtra_tumbling",
+    "name": "Tumbling",
+    "description": "Any movement part of this technique lets you move through enemies but not end in their tiles."
   }
 ]
