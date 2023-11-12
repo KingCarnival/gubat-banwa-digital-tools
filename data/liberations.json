@@ -1,0 +1,58 @@
+[
+  {
+    "id": "lib_makara_aspect",
+    "name": "Makara Aspect",
+    "discipline_id": "disc_buwaya_lancer",
+    "resound": 3,
+    "beat_cost": 1,
+    "effect": "Channel your piety and reverence to strengthen the buwaya you ride upon, turning them into a legendary makara. You become Size 2 (Height 2), you ignore all terrain, you Heal 1 when you start your riff, and you gain +1 to your Posture and Resilience.",
+    "mantras": [
+      {
+        "id": "mtra_heals",
+        "val": 1
+      }
+    ]
+  },
+  {
+    "id": "lib_rudrakashas_bulu",
+    "name": "Rudrakasha’s Bulu",
+    "discipline_id": "disc_kawal",
+    "resound": 2,
+    "beat_cost": 1,
+    "effect": "Declare a bulu, a duel-to-the-death on a fighter in range 3. Until the end of the encounter, they cannot attack any other fighter that is not you. If they do, they suffer 1 True Hit. You similarly suffer -3d to all attacks that don’t include your bulu partner as a target. You and your bulu partner become immune to taunts not from each other and neither of you can be forcibly moved by other warriors.",
+    "mantras": [{ "id": "mtra_immune" }]
+  },
+  {
+    "id": "lib_pangayaw",
+    "name": "Pangayaw",
+    "discipline_id": "disc_mangangayaw",
+    "resound": 4,
+    "beat_cost": 2,
+    "effect": "Unleash a thousand strikes in a picosecond to finish off an opponent. Rush twice, and then INFLICT VIOLENCE six times. Each attack is Relentless and Overwhelming.",
+    "mantras": [{ "id": "mtra_relentless", "id": "mtra_overwhelming" }]
+  },
+  {
+    "id": "lib_siday_sa_gubat",
+    "name": "Siday Sa Gubat",
+    "discipline_id": "disc_sword_poet",
+    "resound": 3,
+    "beat_cost": 2,
+    "effect": "Sing that song of life and death, culminating in a breaking verse. Choose a single fighter in the battlefield that can hear you. Until the end of violence, they cannot make attacks or any other hostile action. Chiefs and Braves lose -1 Riff."
+  },
+  {
+    "id": "lib_glory",
+    "name": "Glory",
+    "discipline_id": "disc_warrior_balyan",
+    "resound": 4,
+    "beat_cost": 1,
+    "effect": "You open your soul and finally achieve minor liberation. Attain Temporary Glory until the end of Violence. While you have Temporary Glory, you have the following benefits:<ul><li>Whenever you suffer Hits you heal that much instead</li> <li>Any amount of heal that brings you above your maximum HP gives you stacking Block instead.</li> <li>Your Hits heal instead of reducing HP. All allies in the battlefield gain +1 to all Prowesses.</li></ul>",
+    "mantras": [
+      {
+        "id": "mtra_heals"
+      },
+      {
+        "id": "mtra_block"
+      }
+    ]
+  }
+]
